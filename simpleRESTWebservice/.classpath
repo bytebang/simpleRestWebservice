@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="vendor/grizzly-http-all-2.4.2.jar"/>
+	<classpathentry kind="lib" path="vendor/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="vendor/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="vendor/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="vendor/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="vendor/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="vendor/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="vendor/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="vendor/jersey-client.jar"/>
+	<classpathentry kind="lib" path="vendor/jersey-common.jar"/>
+	<classpathentry kind="lib" path="vendor/jersey-container-grizzly2-http-2.26.jar"/>
+	<classpathentry kind="lib" path="vendor/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="vendor/jersey-server.jar"/>
+	<classpathentry kind="lib" path="vendor/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
